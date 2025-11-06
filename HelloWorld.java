@@ -6,4 +6,8 @@ public class HelloWorld {
     public void dummy() {
         System.out.println("dummy");
     }
+
+     public void dummy2() {
+        System.out.println("dummy2");
+    }
 }
